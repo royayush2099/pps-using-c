@@ -25,7 +25,7 @@ main(){
 	big=a;
 	if(b>a && b>c)
 	big=b;
-	if(c>a && c>b)
+	if(c>a && c>b)//this file is selected in vim editor understandable 
 	big=c;
 	printf("largest number is %d\n",big);
 	return 0;
