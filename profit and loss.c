@@ -1,5 +1,6 @@
 #include<stdio.h>
 main(){
+	//this is to mention some changes here again
 	float cp,sp,pl;
 	printf("enter the cost price\n");
 	scanf("%f",&cp);
